@@ -1,4 +1,5 @@
 *****************installs*********************
+
 download node from : https://nodejs.org/en/download/
 
 Install Angular CLI: $ npm install -g @angular/cli
@@ -11,7 +12,11 @@ Node: 8.12.0
 
 
 ********************Run project*********
+
 In terminal, navigate to the "snake-game" folder. 
+
 Run the following commands: 
+
 npm install
+
 ng serve -o
